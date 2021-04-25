@@ -1,0 +1,6 @@
+framework module Pods_FBLFramework_FBLFrameworkTests {
+  umbrella header "Pods-FBLFramework-FBLFrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
